@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulvi Səfərli</h1>
 
 <p align="center">
-  <strong>.Net Developer| Backend Developer</strong>
+  <strong>.Net Developer | Backend Developer</strong>
 </p>
 
 <p align="center">
