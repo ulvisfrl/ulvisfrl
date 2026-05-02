@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulvi Səfərli</h1>
 
 <p align="center">
-  <strong>Junior Backend Developer | C# Enthusiast | Onion Architecture & Clean Code Advocate</strong>
+  <strong>.Net Developer| Backend Developer</strong>
 </p>
 
 <p align="center">
