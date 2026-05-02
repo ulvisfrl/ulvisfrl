@@ -17,8 +17,8 @@
 - 🎓 **Education:** Bakı Dövlət Universitetində Kompüter Elmləri üzrə sonuncu kurs tələbəsiyəm.
 - 🛠️ **Current Focus:** **ASP.NET Core** ekosistemi daxilində yüksək performanslı və genişlənə bilən RESTful API-lar inkişaf etdirirəm.
 - 🏗️ **Architecture:** Layihələrimdə **Onion Architecture** və **CQRS** (MediatR) tətbiq edərək təmiz kod və modulluq prinsiplərinə (SOLID) üstünlük verirəm.
-- 💾 **Data Management:** **Entity Framework Core**, **SQL Server** və **Redis** (Caching) texnologiyaları ilə verilənlər bazası idarəetməsi üzrə ixtisaslaşıram[cite: 1].
-- 🤝 **Collaboration:** Backend layihələri, sistem arxitekturası və müasir proqram təminatı həlləri barədə müzakirələrə hər zaman açığam[cite: 1].
+- 💾 **Data Management:** **Entity Framework Core**, **SQL Server** və **Redis** (Caching) texnologiyaları ilə verilənlər bazası idarəetməsi üzrə ixtisaslaşıram.
+- 🤝 **Collaboration:** Backend layihələri, sistem arxitekturası və müasir proqram təminatı həlləri barədə müzakirələrə hər zaman açığam.
 
 ---
 
