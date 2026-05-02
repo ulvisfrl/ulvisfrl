@@ -5,12 +5,12 @@
 </p>
 
 <hr>
-
-- 🎓 **Bakı Dövlət Universitetində** Kompüter Elmləri üzrə təhsil alıram.
-- 🔭 Hal-hazırda .NET ekosistemi üzərində backend layihələri hazırlayıram.
-- 💬 Əsas dilim **C#**-dır və mən **.NET** ekosistemindən istifadə edərək tətbiqlər qururam.
-- 🧠 **Onion Architecture, CQRS, Entity Framework Core** və genişlənə bilən REST API-lar üzərində fokuslanmışam.
-- 🤝 Backend layihələri və arxitektura müzakirələri üçün əməkdaşlığa açığam.
+- 🚀 **Background:** Bakı Dövlət Universitetində Kompüter Elmləri üzrə sonuncu kurs tələbəsiyəm və karyeramı .NET ekosistemi üzərində qururam.
+- 🛠️ **Current Focus:** Yüksək yüklü sistemlər üçün **ASP.NET Core** ilə performansı yüksək və genişlənə bilən RESTful API-lar inkişaf etdirirəm.
+- 🏗️ **Architecture:** Layihələrimdə **Onion Architecture** və **CQRS** (MediatR) tətbiq edərək, təmiz kod və modulluq prinsiplərinə (SOLID) üstünlük verirəm.
+- 💾 **Tech Stack:** **Entity Framework Core**, **SQL Server** və **Redis** ilə verilənlər bazası idarəetməsi və caching mövzusunda təcrübəyə sahibəm.
+- ⚡ **Growth:** Müasir arxitektura nümunələri və mikroservis həlləri üzərində daim araşdırmalar aparıram.
+- 🤝 **Collaboration:** Maraqlı backend layihələrində iştirak etmək və texniki müzakirələr aparmaq üçün hər zaman açığam.
 - 📮 Əlaqə üçün:
 
 <p align="center">
