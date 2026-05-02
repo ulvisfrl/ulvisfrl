@@ -41,13 +41,3 @@
 
 <hr>
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ulvisfrl&label=Profile%20views&color=0e75b6&style=flat" alt="ulvisfrl" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulvisfrl&show_icons=true&theme=tokyonight" alt="Ülvi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulvisfrl&theme=tokyonight" alt="Ülvi's streak" />
-</p>
