@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulvi</h1>
 
 <p align="center">
-  <strong>.NET Backend Developer | C# Enthusiast | Onion Architecture Follower</strong>
+  <strong>.NET Developer | Backend Developer</strong>
 </p>
 
 <hr>
@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/ASP.NET%20CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/MEDIATR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
