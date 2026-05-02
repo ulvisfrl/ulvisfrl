@@ -11,6 +11,7 @@
 - 💾 **Tech Stack:** **Entity Framework Core**, **SQL Server** və **Redis** ilə verilənlər bazası idarəetməsi və caching mövzusunda təcrübəyə sahibəm.
 - ⚡ **Growth:** Müasir arxitektura nümunələri və mikroservis həlləri üzərində daim araşdırmalar aparıram.
 - 🤝 **Collaboration:** Maraqlı backend layihələrində iştirak etmək və texniki müzakirələr aparmaq üçün hər zaman açığam.
+
 - 📮 Əlaqə üçün:
 
 <p align="center">
